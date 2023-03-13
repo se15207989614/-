@@ -1,0 +1,17 @@
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\bin\Debug\net6.0-windows\CMSCWinFormsApp1.exe
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\bin\Debug\net6.0-windows\CMSCWinFormsApp1.deps.json
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\bin\Debug\net6.0-windows\CMSCWinFormsApp1.runtimeconfig.json
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\bin\Debug\net6.0-windows\CMSCWinFormsApp1.dll
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\bin\Debug\net6.0-windows\CMSCWinFormsApp1.pdb
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.csproj.AssemblyReference.cache
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.Form1.resources
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.csproj.GenerateResource.cache
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.AssemblyInfoInputs.cache
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.AssemblyInfo.cs
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.csproj.CoreCompileInputs.cache
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.dll
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\refint\CMSCWinFormsApp1.dll
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.pdb
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\CMSCWinFormsApp1.genruntimeconfig.cache
+F:\86184\source\repos\CMSCWinFormsApp1\CMSCWinFormsApp1\obj\Debug\net6.0-windows\ref\CMSCWinFormsApp1.dll
